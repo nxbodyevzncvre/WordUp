@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "wordup"
+  },
+  "license": "ISC",
+  "author": "nxbodyevzncvre",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
